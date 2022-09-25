@@ -16,10 +16,10 @@ How does your selected theme display some of these challenges?
 
 Describe the current manifestations of data relating to your selected theme, discussing how:
 
-markdown-it-smartarrows 3A
+&#10149; 3A
 
 It is presently curated (collected and gathered)?
 
-mdSmartArrows = require('markdown-it-smartarrows'); 3B
+&#10149; 3B
 
 How it is presented, described, and analysed?
