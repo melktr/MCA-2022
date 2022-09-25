@@ -14,12 +14,12 @@ How does your selected theme display some of these challenges?
 
 * QUESTION 3
 
-Describe the current manifestations of data relating to your selected theme, discussing how i:
+Describe the current manifestations of data relating to your selected theme, discussing how:
 
-* 3A 
+mdSmartArrows = require('markdown-it-smartarrows'); 3A
 
 It is presently curated (collected and gathered)?
 
-* 3B
+mdSmartArrows = require('markdown-it-smartarrows'); 3B
 
 How it is presented, described, and analysed?
