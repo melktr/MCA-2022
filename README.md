@@ -1,6 +1,6 @@
 # MEL'S MCA PROJECT
 
- :sparkles: MY THEME :sparkles:
+ &#12304; :sparkles: MY THEME :sparkles: &#12305;
 
 ## __SEMINAR 1 QUESTIONS__
 
