@@ -1,20 +1,25 @@
 # MEL'S MCA PROJECT
-blah blah blah 
 
-New paragraph goes here
+## :sparkles: MY THEME :sparkles:
 
-## Sub Info about Beethoven
+## __SEMINAR 1 QUESTIONS__
 
-Beethoven's more info
+* QUESTION 1
 
-## Another Subheading
-....
+What do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)?
 
-###### This is an <h6> tag
-  
-  **This text will be bold**
+* QUESTION 2
 
-  First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+How does your selected theme display some of these challenges?
+
+* QUESTION 3
+
+Describe the current manifestations of data relating to your selected theme, discussing how i:
+
+* 3A 
+
+It is presently curated (collected and gathered)?
+
+* 3B
+
+How it is presented, described, and analysed?
