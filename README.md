@@ -16,7 +16,7 @@ How does your selected theme display some of these challenges?
 
 Describe the current manifestations of data relating to your selected theme, discussing how:
 
-mdSmartArrows = require('markdown-it-smartarrows'); 3A
+'markdown-it-smartarrows' 3A
 
 It is presently curated (collected and gathered)?
 
