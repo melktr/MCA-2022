@@ -1,8 +1,8 @@
-# &#12304; :sparkles: MEL'S MCA PROJECT :sparkles: &#12305;
+# &#12304; :sparkles: MELANIE KTORA - 2485564 - MCA PROJECT :sparkles: &#12305;
 
-## The women’s music: Pioneering Black women
+## 
 
-## __SEMINAR 1 QUESTIONS__
+## __WEEK 1__
 
 * QUESTION 1
 
@@ -31,3 +31,13 @@ It is presently curated (collected and gathered)?
 &#10149; 3B
 
 How it is presented, described, and analysed?
+
+## __WEEK 2__
+
+musescore edit
+
+## __WEEK 3__
+
+xml, mei, notepad++
+
+## __WEEK 4__
