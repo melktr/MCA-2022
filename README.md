@@ -12,11 +12,19 @@ Some of his greatest works include *"Metastaseis" (1953-54)* for orchestra, with
 
 ### &#10238; Obstacles in interacting with music and music-related data
 
-&#8688; Access
+&#8688; *Access*
 
-&#8688; Curation
+Accessing music data has become incredibly simple in recent years, but primarily for well-known, or 'popular,' singers and artists. Iannis Xenakis has built a name for himself as a composer, yet his data is not as extensive as that of a pop singer. Many of his works, such as music, architecture, and photography, are included on the composer's website, as well as his bibliography and biography, old and new performances or exhibits in his honour, archives, and many more. This information, however, is not visible on major sites that distribute his music, such as Spotify, Deezer, and Apple Music.
 
-&#8688; Distribution
+Albums, popular releases, singles or EPs, compilations, features, featured playlists, songs' names, artist name, album names, duration of songs, composers, genre, year, track number, track time, play count, user ratings, album/single artwork, lyricists, copyright information, and merch are all visible data on Spotify. 
+
+These may appear to be a lot at first glance, but there are some restrictions. The volume of data available on individual categories makes it harder to analyse, and thus contributes to the data being misconstrued. In this situation, the data is reliant on a "computer," which limits the material to what the device, or the device's operator, decides to display.
+
+&#8688; *Curation*
+
+
+
+&#8688; *Distribution*
 
 * QUESTION 2
 
