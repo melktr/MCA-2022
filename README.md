@@ -10,7 +10,7 @@ My dataset is based on ***Iannis Xenakis (Greek: Γιάννης "Ιωάννης"
 
 Some of his greatest works include *"Metastaseis" (1953-54)* for orchestra, with independent parts for each musician in the orchestra; percussion works such as *"Psappha" (1975)* and *"Pléades" (1979)*, *"Terretektor " (1966)*, which introduced  multidimensional sound by dispersing musicians among the audience, electronic works created using Xenakis's UPIC system (computerised musical composition tool); and the massive multimedia performances Xenakis dubbed  *"Polytopes"* fusing the ancient greek terms “poly” (“many”) and “topos” (“place”).
 
-### &#10238; Obstacles in interacting with music and music-related data
+### &#10238; Obstacles in interacting with music and music-related data and their display on Iannis Xenakis through Spotify 
 
 &#8688; *Access*
 
@@ -22,28 +22,12 @@ These may appear to be a lot at first glance, but there are some restrictions. T
 
 &#8688; *Curation*
 
-Spotify has shifted to machine learning and other algorithmic-based methods. It has developed a service called "Discover Weekly" that customises a playlist of new music for each user every Monday based on their listening patterns. "Discover Weekly" employs three types of recommendation models: collaborative filtering, natural language processing (NLP), and raw audio.
+Spotify has shifted to machine learning and other algorithmic-based methods. It has developed a service called "Discover Weekly" that customises a playlist of new music for each user every Monday based on their listening patterns. "Discover Weekly" employs three types of recommendation models: **collaborative filtering, natural language processing (NLP), and raw audio.**
 
-The majority of Spotify's curation originates through collaborative filtering. That means Spotify map out your preferences depending on your listening patterns and then locates other listeners whose maps match the most with yours. Then, Spotify will suggest music which these other users have listened to but you haven't. The second component, NLP, analyses the lyrics in songs.Spotify now creates a map of the track rather than a map of the user. Then, similar to collaborative filtering, it will compare the maps of several tracks to find the greatest overlap. The final input is a raw audio model. While the first two models are concerned with connecting users with popular songs, raw audio models help assess new music with less data. Spotify analyses fragmented  songs and categorises songsthem based on time signature, key, mode, tempo, and loudness by using convolutional neural networks. 
+The majority of Spotify's curation originates through c**ollaborative filtering**. That means Spotify map out your preferences depending on your listening patterns and then locates other listeners whose maps match the most with yours. Then, Spotify will suggest music which these other users have listened to but you haven't. The second component, **NLP**, analyses the lyrics in songs.Spotify now creates a map of the track rather than a map of the user. Then, similar to collaborative filtering, it will compare the maps of several tracks to find the greatest overlap. The final input is a **raw audio model**. While the first two models are concerned with connecting users with popular songs, raw audio models help assess new music with less data. Spotify analyses fragmented  songs and categorises songsthem based on time signature, key, mode, tempo, and loudness by using convolutional neural networks. 
 
 Spotify lacks curation in the case of Iannis Xenakis. His music is diversified and niche than commercial or mainstream. His intentions lean towards creating musical experiences and compositions performed in specific architectural settings. It is music designed for people to enjoy, which explains why Spotify, his profile isn't as established, and why they curated him only in one of their playlists.
 
 &#8688; *Distribution*
 
-* QUESTION 2
-
-How does your selected theme display some of these challenges?
-
-* QUESTION 3
-
-Describe the current manifestations of data relating to your selected theme, discussing how:
-
-&#10149; 3A
-
-It is presently curated (collected and gathered)?
-
-&#10149; 3B
-
-How it is presented, described, and analysed?
-
-
+In a world when music is publicly available, the most challenging difficulty that music distributors confront today is differentiating themselves by offering the finest music listening experience possible. Finding the appropriate music for each listener is critical to the whole experience. Unfortunately, the burden of quantity falls heavily on the shoulders of the artists. Some streaming services are fantastic at getting independent artists discovered, but the modest sum they pay must be divided between the distributor, record label (if any), and the artist.
