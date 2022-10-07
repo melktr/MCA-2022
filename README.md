@@ -12,7 +12,7 @@ Some of his greatest works include *"Metastaseis" (1953-54)* for orchestra, with
 
 ### &#10238; Obstacles in interacting with music and music-related data and their display on Iannis Xenakis through Spotify 
 
-&#8688; *Access*
+###### &#8688; *Access*
 
 Accessing music data has become incredibly simple in recent years, but primarily for well-known, or 'popular,' singers and artists. Iannis Xenakis has built a name for himself as a composer, yet his data is not as extensive as that of a pop singer. Many of his works, such as music, architecture, and photography, are included on the composer's website, as well as his bibliography and biography, old and new performances or exhibits in his honour, archives, and many more. This information, however, is not visible on major sites that distribute his music, such as Spotify, Deezer, and Apple Music.
 
@@ -20,7 +20,7 @@ Albums, popular releases, singles or EPs, compilations, features, featured playl
 
 These may appear to be a lot at first glance, but there are some restrictions. The volume of data available on individual categories makes it harder to analyse, and thus contributes to the data being misconstrued. In this situation, the data is reliant on a "computer," which limits the material to what the device, or the device's operator, decides to display.
 
-&#8688; *Curation*
+###### &#8688; *Curation*
 
 Spotify has shifted to machine learning and other algorithmic-based methods. It has developed a service called "Discover Weekly" that customises a playlist of new music for each user every Monday based on their listening patterns. "Discover Weekly" employs three types of recommendation models: **collaborative filtering, natural language processing (NLP), and raw audio.**
 
@@ -28,6 +28,6 @@ The majority of Spotify's curation originates through c**ollaborative filtering*
 
 Spotify lacks curation in the case of Iannis Xenakis. His music is diversified and niche than commercial or mainstream. His intentions lean towards creating musical experiences and compositions performed in specific architectural settings. It is music designed for people to enjoy, which explains why Spotify, his profile isn't as established, and why they curated him only in one of their playlists.
 
-&#8688; *Distribution*
+###### &#8688; *Distribution*
 
 In a world when music is publicly available, the most challenging difficulty that music distributors confront today is differentiating themselves by offering the finest music listening experience possible. Finding the appropriate music for each listener is critical to the whole experience. Unfortunately, the burden of quantity falls heavily on the shoulders of the artists. Some streaming services are fantastic at getting independent artists discovered, but the modest sum they pay must be divided between the distributor, record label (if any), and the artist.
