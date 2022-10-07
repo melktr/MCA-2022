@@ -22,6 +22,10 @@ These may appear to be a lot at first glance, but there are some restrictions. T
 
 &#8688; *Curation*
 
+Spotify has shifted to machine learning and other algorithmic-based methods. It has developed a service called "Discover Weekly" that customises a playlist of new music for each user every Monday based on their listening patterns. "Discover Weekly" employs three types of recommendation models: collaborative filtering, natural language processing (NLP), and raw audio.
+
+The majority of Spotify's curation originates through collaborative filtering. That means Spotify map out your preferences depending on your listening patterns and then locates other listeners whose maps match the most with yours. Then, Spotify will suggest music which these other users have listened to but you haven't. The second component, NLP, analyses the lyrics in songs.Spotify now creates a map of the track rather than a map of the user. Then, similar to collaborative filtering, it will compare the maps of several tracks to find the greatest overlap. The final input is a raw audio model. While the first two models are concerned with connecting users with popular songs, raw audio models help assess new music with less data. Spotify analyses fragmented  songs and categorises songsthem based on time signature, key, mode, tempo, and loudness by using convolutional neural networks.
+
 
 
 &#8688; *Distribution*
