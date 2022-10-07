@@ -32,12 +32,4 @@ It is presently curated (collected and gathered)?
 
 How it is presented, described, and analysed?
 
-## __WEEK 2__
 
-musescore edit
-
-## __WEEK 3__
-
-xml, mei, notepad++
-
-## __WEEK 4__
