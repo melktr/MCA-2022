@@ -1,4 +1,4 @@
-#                                            &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
+# &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
 
 [__WEEK 1__](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%201) | [__WEEK 2__]( https://github.com/melktr/MCA-2022/blob/master/Labs/Week%202) | [__WEEK 3__]( https://github.com/melktr/MCA-2022/blob/master/Labs/Week%203) | [__WEEK 4__]( https://github.com/melktr/MCA-2022/blob/master/Labs/Week%204) | [__WEEK 5__] () | [__WEEK 7__] () | [__WEEK 8__] () | [__WEEK 9__] () | [__WEEK 10__ ]()
 
@@ -31,3 +31,5 @@ Spotify lacks curation in the case of Iannis Xenakis. His music is diversified a
 ###### &#8688; *Distribution*
 
 In a world when music is publicly available, the most challenging difficulty that music distributors confront today is differentiating themselves by offering the finest music listening experience possible. Finding the appropriate music for each listener is critical to the whole experience. Unfortunately, the burden of quantity falls heavily on the shoulders of the artists. Some streaming services are fantastic at getting independent artists discovered, but the modest sum they pay must be divided between the distributor, record label (if any), and the artist.
+
+This distinguishes Iannis Xenakis. Although his musical work is difficult to distribute as it is mostly experience-based and you can't transfer the emotional aspect, the humanised limited edition performance, and the feeling of the live soundwaves in your ears,  as previously noted, his work is available in a variety of formats. His music is available via streaming services, architectures, structures, exhibits, photography, notation (graphic and notated scores), audio arts, and different organisations continuing on his legacy, including The Philharmonic Orchestra of Paris, Trio Xenakis, the Hellenic Cultural Center, and Ina GRM.
