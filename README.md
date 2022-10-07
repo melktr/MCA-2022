@@ -10,6 +10,8 @@ My dataset is based on ***Iannis Xenakis (Greek: Γιάννης "Ιωάννης"
 
 Some of his greatest works include *"Metastaseis" (1953-54)* for orchestra, with independent parts for each musician in the orchestra; percussion works such as *"Psappha" (1975)* and *"Pléades" (1979)*, *"Terretektor " (1966)*, which introduced  multidimensional sound by dispersing musicians among the audience, electronic works created using Xenakis's UPIC system (computerised musical composition tool); and the massive multimedia performances Xenakis dubbed  *"Polytopes"* fusing the ancient greek terms “poly” (“many”) and “topos” (“place”).
 
+![429-IX-photo-André-Villers-coll-Famille-IX-DR -778x1024](https://user-images.githubusercontent.com/113994055/194643258-9c43323b-325f-471b-af29-be8e2b5b59a8.jpg)
+
 ### &#10238; Obstacles in interacting with music and music-related data and their display on Iannis Xenakis through Spotify 
 
 ###### &#8688; *Access*
@@ -33,3 +35,5 @@ Spotify lacks curation in the case of Iannis Xenakis. His music is diversified a
 In a world when music is publicly available, the most challenging difficulty that music distributors confront today is differentiating themselves by offering the finest music listening experience possible. Finding the appropriate music for each listener is critical to the whole experience. Unfortunately, the burden of quantity falls heavily on the shoulders of the artists. Some streaming services are fantastic at getting independent artists discovered, but the modest sum they pay must be divided between the distributor, record label (if any), and the artist.
 
 This distinguishes Iannis Xenakis. Although his musical work is difficult to distribute as it is mostly experience-based and you can't transfer the emotional aspect, the humanised limited edition performance, and the feeling of the live soundwaves in your ears,  as previously noted, his work is available in a variety of formats. His music is available via streaming services, architectures, structures, exhibits, photography, notation (graphic and notated scores), audio arts, and different organisations continuing on his legacy, including The Philharmonic Orchestra of Paris, Trio Xenakis, the Hellenic Cultural Center, and Ina GRM.
+
+![228-IX-persepolis-photo-Mali -1971-coll-Famille-IX-DR -1024x950](https://user-images.githubusercontent.com/113994055/194643259-4e08845e-591b-42f9-bd97-4fc81dd54c17.jpg) 
