@@ -1,6 +1,6 @@
 # &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
 
-[__WEEK 1__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-1) | [__WEEK 2__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-2) | [__WEEK 3__]() | [__WEEK 4__]() | [__WEEK 5__] () | [__WEEK 7__] () | [__WEEK 8__] () | [__WEEK 9__] () | [__WEEK 10__ ]()
+[__WEEK 1__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-1) | [__WEEK 2__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-2) | [__WEEK 3__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-3) | [__WEEK 4__]() | [__WEEK 5__] () | [__WEEK 7__] () | [__WEEK 8__] () | [__WEEK 9__] () | [__WEEK 10__ ]()
 
 ## __WEEK 1__
 
@@ -52,7 +52,7 @@ You can also download the PDF version [here](https://drive.google.com/file/d/1Tl
 
 The first part of this week's task was to export our MuseScore files from last week to a MusicXML file, and from it to an MEI file. 
 
-Download the MusicXML file [here]([https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing)) 
+Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing) 
 
-Download the MEI file [here]([https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1ZjJ2uJirNXnNq6DGrKz4R4brM5fR8Jc8/view?usp=sharing))
+Download the MEI file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1ZjJ2uJirNXnNq6DGrKz4R4brM5fR8Jc8/view?usp=sharing)
 
