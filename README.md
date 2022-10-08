@@ -1,6 +1,6 @@
 # &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
 
-[__WEEK 1__]() | [__WEEK 2__]() | [__WEEK 3__]() | [__WEEK 4__]() | [__WEEK 5__] () | [__WEEK 7__] () | [__WEEK 8__] () | [__WEEK 9__] () | [__WEEK 10__ ]()
+[__WEEK 1__]() | [__WEEK 2__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-2) | [__WEEK 3__]() | [__WEEK 4__]() | [__WEEK 5__] () | [__WEEK 7__] () | [__WEEK 8__] () | [__WEEK 9__] () | [__WEEK 10__ ]()
 
 ## __WEEK 1__
 
