@@ -43,4 +43,8 @@ This distinguishes Iannis Xenakis. Although his musical work is difficult to dis
 For week 2, I opted to transcribe the first few bars of Xenakis' "XAƧ" (SAX spelt backwards), which was originally created for the Rascher Saxophone Quartet. Unfortunately, the original score was ineligible for Musescore's PDF converter, thus here is my attempt at generating a clear version of it. 
 
 The images below are from a pdf version of my MuseScore file. 
+
 You can also download the PDF version [here](https://drive.google.com/file/d/1MmfIyqMnoI3BstMKYn9b9L4ayZZD9457/view?usp=sharing) 
+
+<img width="1057" alt="Screenshot 2022-10-08 at 1 56 51 AM" src="https://user-images.githubusercontent.com/113994055/194679486-b578ffc2-ba1f-45c1-8225-f4315e93eb7c.png">
+
