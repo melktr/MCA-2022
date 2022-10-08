@@ -37,3 +37,10 @@ In a world when music is publicly available, the most challenging difficulty tha
 This distinguishes Iannis Xenakis. Although his musical work is difficult to distribute as it is mostly experience-based and you can't transfer the emotional aspect, the humanised limited edition performance, and the feeling of the live soundwaves in your ears,  as previously noted, his work is available in a variety of formats. His music is available via streaming services, architectures, structures, exhibits, photography, notation (graphic and notated scores), audio arts, and different organisations continuing on his legacy, including The Philharmonic Orchestra of Paris, Trio Xenakis, the Hellenic Cultural Center, and Ina GRM.
 
 ![228-IX-persepolis-photo-Mali -1971-coll-Famille-IX-DR -1024x950](https://user-images.githubusercontent.com/113994055/194643259-4e08845e-591b-42f9-bd97-4fc81dd54c17.jpg) 
+
+## __WEEK 2__
+
+For week 2, I opted to transcribe the first few bars of Xenakis' "XAƧ" (SAX spelt backwards), which was originally created for the Rascher Saxophone Quartet. Unfortunately, the original score was ineligible for Musescore's PDF converter, thus here is my attempt at generating a clear version of it. 
+
+The images below are from a pdf version of my MuseScore file. 
+You can also download the PDF version [here] (https://doc-0o-90-apps-viewer.googleusercontent.com/viewer/secure/pdf/fobtffnajgso53c5qr4h6n1spbu81701/4dtu2ia687ffjrpc3v5nh8k735ldug9k/1665189900000/drive/06039381358490451211/ACFrOgDjxNL0tFi4tVrcpTaCQB7McyOw4DPVDYfYsvGYtPY7R-Hep62s89um_6IUnclzktmvRC5E6KBm3jKbqtB1kBi-IGxdI2YZR3KM39lRboSXVjhDVkr0Hl74GB7kw12lqZFG1z97mgPFPYDY?print=true&nonce=7gaivncs889u4&user=06039381358490451211&hash=vhfufev9v4f84arfmu5db0hc583fj03n) .
