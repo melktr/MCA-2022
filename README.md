@@ -46,8 +46,7 @@ The images below are from a pdf version of my MuseScore file. 
 
 You can also download the PDF version [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing) 
 
-[XAƧ full score.pdf](https://github.com/melktr/MCA-2022/files/9738138/XA.full.score.pdf)
-
+<img width="1257" alt="Screenshot 2022-10-08 at 2 42 57 AM" src="https://user-images.githubusercontent.com/113994055/194681443-252092a7-8c54-44d6-ae93-84e3b9869bbb.png">
 
 ## __WEEK 3__
 
