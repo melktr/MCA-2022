@@ -56,3 +56,13 @@ Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomo
 
 Download the MEI file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1ZjJ2uJirNXnNq6DGrKz4R4brM5fR8Jc8/view?usp=sharing))
 
+## __WEEK 4__
+
+For this week's lab we had to export our musescore file to MIDI and run it through jSymbolic.jar then after adjusting the relevant settings, import our CSV file in Excel.
+
+This allowed me to look through the data of the piece and create a chart of the percentages of the significant numbers. 
+
+You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/master/Labs/WEEK%204/XA%C6%A7%20musescore.mid)
+
+![Capture](https://user-images.githubusercontent.com/113994055/195589707-0e7788cc-d3dc-423d-b124-b7e975e8e833.PNG)
+
