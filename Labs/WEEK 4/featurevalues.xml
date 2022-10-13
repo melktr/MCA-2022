@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE feature_vector_file [
+   <!ELEMENT feature_vector_file (comments, data_set+)>
+   <!ELEMENT comments (#PCDATA)>
+   <!ELEMENT data_set (data_set_id, section*, feature*)>
+   <!ELEMENT data_set_id (#PCDATA)>
+   <!ELEMENT section (feature+)>
+   <!ATTLIST section start CDATA ""
+                     stop CDATA "">
+   <!ELEMENT feature (name, v+)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT v (#PCDATA)>
+]>
+
+<feature_vector_file>
+
+   <comments></comments>
+
+	<data_set>
+		<data_set_id>\\file-alpha.campus.gla.ac.uk\scsa_group2\scsa_fs_student6\student\2485564K\Desktop\mel assignment\XAƧ musescore.mid</data_set_id>
+		<feature>
+			<name>Pitch Class Histogram</name>
+			<v>1.549E-1</v>
+			<v>5.164E-2</v>
+			<v>7.042E-2</v>
+			<v>1.174E-1</v>
+			<v>9.39E-2</v>
+			<v>1.878E-2</v>
+			<v>4.695E-2</v>
+			<v>5.164E-2</v>
+			<v>1.127E-1</v>
+			<v>9.39E-2</v>
+			<v>4.695E-2</v>
+			<v>1.408E-1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>3.5E1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitch Classes</name>
+			<v>1.2E1</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>3.8E1</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Mean Pitch</name>
+			<v>6.162E1</v>
+		</feature>
+		<feature>
+			<name>Mean Pitch Class</name>
+			<v>4.732E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Pitch</name>
+			<v>6.1E1</v>
+		</feature>
+		<feature>
+			<name>Most Common Pitch Class</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitches</name>
+			<v>8E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>8.847E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>0E0</v>
+		</feature>
+	</data_set>
+
+</feature_vector_file>
