@@ -52,9 +52,9 @@ You can also download the PDF version [here](https://drive.google.com/file/d/1Tl
 
 The first part of this week's task was to export our MuseScore files from last week to a MusicXML file, and from it to an MEI file. 
 
-Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing) )
+Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing) )   CHANGE LINK!!
 
-Download the MEI file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1ZjJ2uJirNXnNq6DGrKz4R4brM5fR8Jc8/view?usp=sharing))
+Download the MEI file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1ZjJ2uJirNXnNq6DGrKz4R4brM5fR8Jc8/view?usp=sharing)) CHANGE LINK!!!
 
 ## __WEEK 4__
 
@@ -67,6 +67,8 @@ You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/ma
 ![pitches](https://user-images.githubusercontent.com/113994055/195591780-b3126f59-4897-4389-bd33-87e2edea34e3.PNG)
 
 ![numbers related to data](https://user-images.githubusercontent.com/113994055/195591803-51425bfa-cd3c-4469-81fa-b1e5aeab1785.PNG)
+
+ADD WEEK 4 INDIVIDUAL LAB!!!
 
 ## __WEEK 5__
 
