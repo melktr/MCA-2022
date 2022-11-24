@@ -68,7 +68,12 @@ You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/ma
 
 ![numbers related to data](https://user-images.githubusercontent.com/113994055/195591803-51425bfa-cd3c-4469-81fa-b1e5aeab1785.PNG)
 
-ADD WEEK 4 INDIVIDUAL LAB!!!
+![piano roll](https://user-images.githubusercontent.com/113994055/203786138-cf78819c-04c6-43c1-b0d6-420f7c89b1d6.PNG)
+
+![scatter plot](https://user-images.githubusercontent.com/113994055/203786142-474efef2-c795-4340-9db8-ff08ecfa4b98.PNG)
+
+![graph](https://user-images.githubusercontent.com/113994055/203786144-ffaf7832-1817-48e9-a049-17a3c8804962.PNG)
+
 
 ## __WEEK 5__
 
