@@ -90,5 +90,12 @@ The MEI file was updated to contain the above listed metadata and can be accesse
 ## __WEEK 9__
 
 ## __WEEK 10__
+ part 1.
+ 
  answer questions
+ 
  add pics
+
+ part 2.
+ 
+ display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)
