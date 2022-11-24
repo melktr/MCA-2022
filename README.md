@@ -90,3 +90,5 @@ The MEI file was updated to contain the above listed metadata and can be accesse
 ## __WEEK 9__
 
 ## __WEEK 10__
+ answer questions
+ add pics
