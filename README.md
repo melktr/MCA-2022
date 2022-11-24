@@ -82,3 +82,11 @@ WRITE DESCRIPTION HERE
 ADD TASK 1 
 
 The MEI file was updated to contain the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei) .
+
+## __WEEK 7__
+
+## __WEEK 8__
+
+## __WEEK 9__
+
+## __WEEK 10__
