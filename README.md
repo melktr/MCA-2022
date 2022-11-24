@@ -94,8 +94,22 @@ The MEI file was updated to contain the above listed metadata and can be accesse
  
  answer questions
  
- add pics
+ add pics!!
+ 
+ [features](https://user-images.githubusercontent.com/113994055/203801424-3e044749-8e70-441c-b356-7c36a4621b09.png)
+![frame number](https://user-images.githubusercontent.com/113994055/203801427-598ef4af-9acc-4a56-af90-7b296c40b87f.png)
+![heat map for 12 notes](https://user-images.githubusercontent.com/113994055/203801430-fbc5e8c0-7f25-404d-ab98-30ad2f0e7cf7.png)
+[heat map](https://user-images.githubusercontent.com/113994055/203801414-97d1a6df-fba0-45a3-991d-21001e6a1a86.png)
+![mean chroma features](https://user-images.githubusercontent.com/113994055/203801416-ad5c8e26-6b5a-4a22-aba6-051842865692.png)
+![notes](https://user-images.githubusercontent.com/113994055/203801417-9ed24209-b9ba-4496-8722-9a35ac42b81c.png)
+![c occurence](https://user-images.githubusercontent.com/113994055/203801419-d0163775-f5b0-4f5a-a662-2895800fe457.png)
+![feature vector](https://user-images.githubusercontent.com/113994055/203801422-bf618ba6-c328-495a-b410-907633212166.png)
+
 
  part 2.
  
  display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)
+ 
+![XAƧ musescore-1](https://user-images.githubusercontent.com/113994055/203801646-24fec336-3910-4ebe-aba2-26e595512d72.png)
+![XAƧ musescore-2](https://user-images.githubusercontent.com/113994055/203801650-29d4a36e-bcc4-402e-9772-974ff5127c5b.png)
+![xassonicvisualizerpiano-1](https://user-images.githubusercontent.com/113994055/203801653-c0c334bb-b9cb-4c43-8508-66a1349f7b87.png)
