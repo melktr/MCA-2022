@@ -64,6 +64,8 @@ This allowed me to look through the data of the piece and create a graph of the 
 
 You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/master/Labs/WEEK%204/XA%C6%A7%20musescore.mid)
 
+WRITE DESCRIPTION HERE
+
 ![pitches](https://user-images.githubusercontent.com/113994055/195591780-b3126f59-4897-4389-bd33-87e2edea34e3.PNG)
 
 ![numbers related to data](https://user-images.githubusercontent.com/113994055/195591803-51425bfa-cd3c-4469-81fa-b1e5aeab1785.PNG)
@@ -76,5 +78,7 @@ You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/ma
 
 
 ## __WEEK 5__
+
+ADD TASK 1 
 
 The MEI file was updated to contain the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei) .
