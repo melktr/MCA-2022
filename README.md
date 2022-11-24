@@ -77,4 +77,4 @@ You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/ma
 
 ## __WEEK 5__
 
-The MEI file was updated to contain the above listed metadata and can be accessed [here]([https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei)
+The MEI file was updated to contain the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei)
