@@ -152,13 +152,20 @@ XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram
 
 
 ### &#10238; Audio Similarity and Transcription
-### &#10238; TASK 1: Generating a Similarity Matrix for each of the pieces
+### &#10238; TASK 1: Generating a Similarity Matrix
  answer questions
  add pics!!
  
- SIX CHANSONS FOR PIANO : 
- 
+###### &#8688; *Chroma features*
 
+![mean chroma features](https://user-images.githubusercontent.com/113994055/204541990-9ff5348b-fe09-4ceb-ae93-776eea531d0a.png)
+
+###### &#8688; *Features as a CSV*
+![features](https://user-images.githubusercontent.com/113994055/204542333-892a923a-0c69-46d0-9c02-b7c8cface161.png)
+
+###### &#8688; *Similarity matrix*
+
+ ![heat map](https://user-images.githubusercontent.com/113994055/204542700-b2331765-e2f4-4a34-a4eb-734ecb71a4aa.png)
 
 ### &#10238; TASK 2: Transcription
  
