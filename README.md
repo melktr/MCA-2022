@@ -1,6 +1,6 @@
 # &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
 
-[__WEEK 1__](https://melktr.github.io/MCA-2022/#week-1) | [__WEEK 2__](https://melktr.github.io/MCA-2022/#week-2) | [__WEEK 3__](https://melktr.github.io/MCA-2022/#week-3) | [__WEEK 4__](https://melktr.github.io/MCA-2022/#week-4) | [__WEEK 5__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-5) || [__WEEK 7__](https://melktr.github.io/MCA-2022/#week-7) | [__WEEK 8__](https://melktr.github.io/MCA-2022/#week-8) | [__WEEK 9__](https://melktr.github.io/MCA-2022/#week-9) | [__WEEK 10__ ](https://melktr.github.io/MCA-2022/#week-10)
+[__WEEK 1__](https://melktr.github.io/MCA-2022/#week-1) | [__WEEK 2__](https://melktr.github.io/MCA-2022/#week-2) | [__WEEK 3__](https://melktr.github.io/MCA-2022/#week-3) | [__WEEK 4__](https://melktr.github.io/MCA-2022/#week-4) | [__WEEK 5__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-5) |READING WEEK| [__WEEK 7__](https://melktr.github.io/MCA-2022/#week-7) | [__WEEK 8__](https://melktr.github.io/MCA-2022/#week-8) | [__WEEK 9__](https://melktr.github.io/MCA-2022/#week-9) | [__WEEK 10__ ](https://melktr.github.io/MCA-2022/#week-10)
 
 ## __WEEK 1__
 
@@ -86,6 +86,30 @@ The MEI file was updated to contain the above listed metadata and can be accesse
 ## __WEEK 7__
 
 ## __WEEK 8__
+
+### &#10238;TASK 1: Identifying three music tracks and listing most important metadata about them
+
+![AUDIO FORMAT](https://user-images.githubusercontent.com/113994055/204532980-675df36b-7119-4191-890c-39dacbf2a2eb.PNG)
+
+![METADATA](https://user-images.githubusercontent.com/113994055/204532989-155de08f-abe7-4105-8b17-5dc1c638488d.PNG)
+
+### &#10238;TASK 2: Generating Spectrograms and Waveforms + Describing Advantages of Time-Frequency Analysis Over a Waveform Based One
+###### &#8688; *TASK 2.1: Computing and exporting a spectrogram and waveform for each track from task 1*
+
+SIX CHANSONS FOR PIANO : SPECTOGRAM AND WAVEFORM
+![six chansons for piano spectogram](https://user-images.githubusercontent.com/113994055/204533493-80c59e04-1f04-42f0-b90b-0e615ccca188.png)
+![six chansons for piano soundwaves](https://user-images.githubusercontent.com/113994055/204533668-64b4f547-db30-4a11-ac76-e8f7a8782ff2.png)
+
+PITHOPRAKTA : SPECTOGRAM AND WAVEFORM
+![spectogram 2](https://user-images.githubusercontent.com/113994055/204533888-40e9d640-03f3-4968-bd57-5fd233fe9b31.png)
+![pithoprakta soundwaves#](https://user-images.githubusercontent.com/113994055/204533907-524d0fc2-ceaa-43f5-be07-bba78f998149.png)
+
+XAS : SPECTOGRAM AND WAVEFORM
+![xas spectogram](https://user-images.githubusercontent.com/113994055/204533939-54bea61f-8ad6-43b3-8000-05a39bb035ea.png)
+![xas soundwaves](https://user-images.githubusercontent.com/113994055/204533953-e8893a4b-5b42-4e4f-bb12-137c3702e1f8.png)
+
+###### &#8688; *Task 2.2: Describing advantages of a time-frequency analysis over a waveform-based analysis*
+add text here
 
 ## __WEEK 9__
 
