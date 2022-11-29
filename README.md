@@ -93,7 +93,8 @@ The MEI file was updated to contain the above listed metadata and can be accesse
 
 ![METADATA](https://user-images.githubusercontent.com/113994055/204532989-155de08f-abe7-4105-8b17-5dc1c638488d.PNG)
 
-### &#10238;TASK 2: Generating Spectrograms and Waveforms + Describing Advantages of Time-Frequency Analysis Over a Waveform Based One
+### &#10238;TASK 2: Generating Spectrograms and Waveforms & Describing Advantages of Time-Frequency Analysis Over a Waveform Based One
+
 ###### &#8688; *TASK 2.1: Computing and exporting a spectrogram and waveform for each track from task 1*
 
 SIX CHANSONS FOR PIANO : SPECTOGRAM AND WAVEFORM
