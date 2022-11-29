@@ -142,13 +142,16 @@ XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram
 ###### &#8688; *Histograms computed from spectograms*
 
 
-
+### &#10238; Task 2.2: Comparing the histograms
 
 
 
 ## __WEEK 10__
- part 1.
- 
+
+
+### &#10238; Audio Similarity and Transcription
+### &#10238; TASK 1: Generating a Similarity Matrix
+
  answer questions
  
  add pics!!
@@ -163,7 +166,7 @@ XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram
 ![feature vector](https://user-images.githubusercontent.com/113994055/203801422-bf618ba6-c328-495a-b410-907633212166.png)
 
 
- part 2.
+### &#10238; TASK 2: Transcription
  
  display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)
  
