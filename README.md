@@ -94,7 +94,6 @@ The retrieved piano roll displays the sequence, duration, and pitch of the notes
 
 Pitch and note length are shown on the extracted scatter plot of pitches. Once more, this looks to be in line with the piece.
 
-
 ![scatter plot](https://user-images.githubusercontent.com/113994055/203786142-474efef2-c795-4340-9db8-ff08ecfa4b98.PNG)
 
 ***Histogram of pitch***
@@ -103,10 +102,9 @@ The number of times a specific note has been played in a song is indicated by th
 
 ![graph](https://user-images.githubusercontent.com/113994055/203786144-ffaf7832-1817-48e9-a049-17a3c8804962.PNG)
 
-
 ## __WEEK 5__
 
-ADD TASK 1 
+### &#10238;TASK 1: 
 
 The MEI file was updated to contain the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei) .
 
@@ -124,15 +122,15 @@ The MEI file was updated to contain the above listed metadata and can be accesse
 
 ### &#10238;TASK 2.1: Computing and exporting a spectrogram and waveform for each track from task 1
 
-SIX CHANSONS FOR PIANO : SPECTOGRAM AND WAVEFORM
+***SIX CHANSONS FOR PIANO : SPECTOGRAM AND WAVEFORM***
 ![six chansons for piano spectogram](https://user-images.githubusercontent.com/113994055/204533493-80c59e04-1f04-42f0-b90b-0e615ccca188.png)
 ![six chansons for piano soundwaves](https://user-images.githubusercontent.com/113994055/204533668-64b4f547-db30-4a11-ac76-e8f7a8782ff2.png)
 
-PITHOPRAKTA : SPECTOGRAM AND WAVEFORM
+***PITHOPRAKTA : SPECTOGRAM AND WAVEFORM***
 ![spectogram 2](https://user-images.githubusercontent.com/113994055/204533888-40e9d640-03f3-4968-bd57-5fd233fe9b31.png)
 ![pithoprakta soundwaves#](https://user-images.githubusercontent.com/113994055/204533907-524d0fc2-ceaa-43f5-be07-bba78f998149.png)
 
-XAS : SPECTOGRAM AND WAVEFORM
+***XAS : SPECTOGRAM AND WAVEFORM***
 ![xas spectogram](https://user-images.githubusercontent.com/113994055/204533939-54bea61f-8ad6-43b3-8000-05a39bb035ea.png)
 ![xas soundwaves](https://user-images.githubusercontent.com/113994055/204533953-e8893a4b-5b42-4e4f-bb12-137c3702e1f8.png)
 
@@ -140,26 +138,23 @@ XAS : SPECTOGRAM AND WAVEFORM
 
 The main benefit of a time-frequency analysis over a waveform analysis is that it makes it simpler to glean important details about the particular musical composition. Since each note in a song has a certain frequency, we can roughly identify the notes being played in a song based on a spectrogram, which is a visual depiction of the fluctuation of frequencies over time. On the other hand, a waveform analysis contains a lot of information but does not present it in a comprehensible manner. Although it lacks numerical data, it provides us with the amplitude, or the energy level, at a certain time point, which equates to loudness, and the form of the wave provides us with an indicator of the variations in frequency.
 
-add text here
-
 ## __WEEK 9__
 
 ### &#10238; TASK 1: Analysing and Extracting Meaning from Audio
 
 For this week's task I used the same tracks from week 8 tasks. Below are the screenshots of the transformations (Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram) we had to do in Sonic Visualiser.
 
-SIX CHANSONS FOR PIANO : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram
-
+***SIX CHANSONS FOR PIANO : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram***
 ![six chansons for piano spectogram](https://user-images.githubusercontent.com/113994055/204535749-faacec88-47f9-4a5b-901a-25dcc5f98295.png)
 ![Mel Frequency Cepstral Coefficients](https://user-images.githubusercontent.com/113994055/204535815-a03a21b7-a457-49a4-8d5c-807ce92a0bcf.png)
 ![Chromagram](https://user-images.githubusercontent.com/113994055/204535827-bb810091-18e0-4f64-a8fb-9c2eef438ca5.png)
 
-PITHOPRAKTA : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram
+***PITHOPRAKTA : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram***
 ![pithopraktaspectogram](https://user-images.githubusercontent.com/113994055/204535926-d9e1be0f-a933-4d3b-bbac-ece511b5e8e9.png)
 ![Mel Frequency Cepstral Coefficients](https://user-images.githubusercontent.com/113994055/204535940-9da21a49-ebe0-495b-815a-5099be52faae.png)
 ![Chromagram](https://user-images.githubusercontent.com/113994055/204535949-d1f318f6-33e0-4b7a-ae7a-1995e8535436.png)
 
-XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram
+***XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram***
 ![xas spectogram](https://user-images.githubusercontent.com/113994055/204536079-7baafd26-232a-4f4e-8b68-6ab2a5185e10.png)
 ![Mel Frequency Cepstral Coefficients](https://user-images.githubusercontent.com/113994055/204536091-85f1a34d-eadd-4ab1-9a5a-347ae0232a89.png)
 ![Chromagram](https://user-images.githubusercontent.com/113994055/204536108-8b89b9ac-6ce3-4fe4-854f-8f57f0885144.png)
