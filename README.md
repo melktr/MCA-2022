@@ -50,29 +50,56 @@ You can also download the PDF version [here](https://drive.google.com/file/d/1Tl
 
 ## __WEEK 3__
 
-The first part of this week's task was to export our MuseScore files from last week to a MusicXML file, and from it to an MEI file. 
+### &#10238;TASK 1: Generating MusicXML and MEI files
+
+The first part of this week's task was to export our MuseScore files from last week to a MusicXML file, and from it to an MEI file. Both can be accessed through the links below. 
 
 Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing) )   CHANGE LINK!!
 
 Download the MEI file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1ZjJ2uJirNXnNq6DGrKz4R4brM5fR8Jc8/view?usp=sharing)) CHANGE LINK!!!
 
+### &#10238;TASK 2: Rendering the MEI file using Verovio
+
+In order to present my rendered file as a component of this website for the second portion of this week's task, I copied the code from the "verovio.html" file and made the necessary edits. 
+
+Please refresh the page if the Verovio app is having trouble loading.
+
 ## __WEEK 4__
 
-For this week's lab we had to export our musescore file to MIDI and run it through jSymbolic.jar then after adjusting the relevant settings, import our CSV file in Excel.
+For this week's lab, we had to convert our MuseScore file to MIDI, run it using jSymbolic.jar, and then import our CSV file into Excel after making the necessary adjustments. 
 
-This allowed me to look through the data of the piece and create a graph of the percentages of the significant numbers on pitches and their data. 
+This gave me the opportunity to examine the piece's data and produce a graph showing the percentages of the important figures in the pitches' data.
 
 You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/master/Labs/WEEK%204/XA%C6%A7%20musescore.mid)
 
-WRITE DESCRIPTION HERE
+### &#10238; TASK 1: Generating a jSymbolic
+
+I have gathered certain fundamental characteristics, such as the pitches histogram and data-related numbers (such as the number of pitches, pitch classes, range, strong tonal centres, mean pitch, and so on). These characteristics, I believe, can offer helpful insight into this particular piece. This kind of histogram, for instance, provides specific insights on the range and diversity of pitches employed in a piece, which is especially helpful for "XAS" since it contains many short notes. 
 
 ![pitches](https://user-images.githubusercontent.com/113994055/195591780-b3126f59-4897-4389-bd33-87e2edea34e3.PNG)
 
 ![numbers related to data](https://user-images.githubusercontent.com/113994055/195591803-51425bfa-cd3c-4469-81fa-b1e5aeab1785.PNG)
 
+Here is a link to the csv file.
+
+### &#10238;TASK 2: Generating a piano roll and a pitch histogram
+
+***Piano Roll***
+
+The retrieved piano roll displays the sequence, duration, and pitch of the notes played over time like any other piano roll. It appears to be in line with the other analytical information on this page (as seen when comparing it with the historgram for example, since the commonality of notes presented in the histogram seems to correspond to the piano roll).
+
 ![piano roll](https://user-images.githubusercontent.com/113994055/203786138-cf78819c-04c6-43c1-b0d6-420f7c89b1d6.PNG)
 
+***Scatter Plot of Pitches***
+
+Pitch and note length are shown on the extracted scatter plot of pitches. Once more, this looks to be in line with the piece.
+
+
 ![scatter plot](https://user-images.githubusercontent.com/113994055/203786142-474efef2-c795-4340-9db8-ff08ecfa4b98.PNG)
+
+***Histogram of pitch***
+
+The number of times a specific note has been played in a song is indicated by the retrieved pitch histogram. This histogram indicates that F#4 is the most frequent pitch in my composition, which is compatible with the information obtained from jSymbolic because F#4 is comparable to MIDI pitch value 66. (most common pitch).   
 
 ![graph](https://user-images.githubusercontent.com/113994055/203786144-ffaf7832-1817-48e9-a049-17a3c8804962.PNG)
 
@@ -171,7 +198,7 @@ XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram
  
  display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)
  
- ###### &#8688; *SCORE PDF*
+###### &#8688; *SCORE PDF*
 ![XAƧ musescore-1](https://user-images.githubusercontent.com/113994055/203801646-24fec336-3910-4ebe-aba2-26e595512d72.png)
 ![XAƧ musescore-2](https://user-images.githubusercontent.com/113994055/203801650-29d4a36e-bcc4-402e-9772-974ff5127c5b.png)
 
