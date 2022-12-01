@@ -74,13 +74,13 @@ You can download the MIDI file [here](https://github.com/melktr/MCA-2022/blob/ma
 
 ### &#10238; TASK 1: Generating a jSymbolic
 
-I have gathered certain fundamental characteristics, such as the pitches histogram and data-related numbers (such as the number of pitches, pitch classes, range, strong tonal centres, mean pitch, and so on). These characteristics, I believe, can offer helpful insight into this particular piece. This kind of histogram, for instance, provides specific insights on the range and diversity of pitches employed in a piece, which is especially helpful for "XAS" since it contains many short notes. 
+I have gathered certain fundamental characteristics, such as the pitches histogram and data-related numbers (such as the number of pitches, pitch classes, range, strong tonal centres, mean pitch, and so on). These characteristics, I believe, can offer helpful insight into this particular piece. This kind of histogram, for instance, provides specific insights on the range and diversity of pitches employed in a piece, which is especially helpful for "XAS" since it contains many short notes but is devoid of numerical data. For instance, if we look at the spectrogram and waveform for "XAS", we can infer the dynamics that shift over time, and velocity. On the other hand, if we know which frequency corresponds to which pitch, we may determine the notes.
 
 ![pitches](https://user-images.githubusercontent.com/113994055/195591780-b3126f59-4897-4389-bd33-87e2edea34e3.PNG)
 
 ![numbers related to data](https://user-images.githubusercontent.com/113994055/195591803-51425bfa-cd3c-4469-81fa-b1e5aeab1785.PNG)
 
-Here is a link to the csv file.
+Here is a link to the csv file.  ------!!!!!
 
 ### &#10238;TASK 2: Generating a piano roll and a pitch histogram
 
@@ -99,7 +99,7 @@ Pitch and note length are shown on the extracted scatter plot of pitches. Once m
 
 ***Histogram of pitch***
 
-The number of times a specific note has been played in a song is indicated by the retrieved pitch histogram. This histogram indicates that F#4 is the most frequent pitch in my composition, which is compatible with the information obtained from jSymbolic because F#4 is comparable to MIDI pitch value 66. (most common pitch).   
+The number of times a specific note has been played in a song is indicated by the retrieved pitch histogram. This histogram indicates that F#4 is the most frequent pitch in my composition, which is compatible with the information obtained from jSymbolic because F#4 is comparable to MIDI pitch value 66 (most common pitch).   
 
 ![graph](https://user-images.githubusercontent.com/113994055/203786144-ffaf7832-1817-48e9-a049-17a3c8804962.PNG)
 
@@ -137,6 +137,9 @@ XAS : SPECTOGRAM AND WAVEFORM
 ![xas soundwaves](https://user-images.githubusercontent.com/113994055/204533953-e8893a4b-5b42-4e4f-bb12-137c3702e1f8.png)
 
 ### &#10238;Task 2.2: Describing advantages of a time-frequency analysis over a waveform-based analysis
+
+The main benefit of a time-frequency analysis over a waveform analysis is that it makes it simpler to glean important details about the particular musical composition. Since each note in a song has a certain frequency, we can roughly identify the notes being played in a song based on a spectrogram, which is a visual depiction of the fluctuation of frequencies over time. On the other hand, a waveform analysis contains a lot of information but does not present it in a comprehensible manner. Although it lacks numerical data, it provides us with the amplitude, or the energy level, at a certain time point, which equates to loudness, and the form of the wave provides us with an indicator of the variations in frequency.
+
 add text here
 
 ## __WEEK 9__
