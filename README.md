@@ -120,8 +120,12 @@ The number of times a specific note has been played in a song is indicated by th
 
 ![graph](https://user-images.githubusercontent.com/113994055/203786144-ffaf7832-1817-48e9-a049-17a3c8804962.PNG)
 
-## __WEEK 5__
+<div align="left">
+  
+## __WEEK 5__ 
 
+</div>
+  
 ### &#10238;TASK 1: 
 These are the metadata components I would use to describe individual MEI files in my GitHub repository since I think they are the most significant:
 
@@ -173,15 +177,23 @@ These are the metadata components I would use to describe individual MEI files i
 
 The MEI file was updated to contain some of the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei) .
 
-## __WEEK 7__
+<div align="left">
+  
+## __WEEK 7__ 
+
+</div>
 
 ### &#10238;TASK 1: Updating last week's metadata
 
 
 ### &#10238;TASK 2: Rendering the revised metadata
 
-## __WEEK 8__
+<div align="left">
+  
+## __WEEK 8__ 
 
+</div>
+  
 ### &#10238;TASK 1: Identifying three music tracks and listing most important metadata about them
 
 ![AUDIO FORMAT](https://user-images.githubusercontent.com/113994055/204532980-675df36b-7119-4191-890c-39dacbf2a2eb.PNG)
@@ -208,7 +220,11 @@ The MEI file was updated to contain some of the above listed metadata and can be
 
 The main benefit of a time-frequency analysis over a waveform analysis is that it makes it simpler to glean important details about the particular musical composition. Since each note in a song has a certain frequency, we can roughly identify the notes being played in a song based on a spectrogram, which is a visual depiction of the fluctuation of frequencies over time. On the other hand, a waveform analysis contains a lot of information but does not present it in a comprehensible manner. Although it lacks numerical data, it provides us with the amplitude, or the energy level, at a certain time point, which equates to loudness, and the form of the wave provides us with an indicator of the variations in frequency.
 
-## __WEEK 9__
+<div align="left">
+  
+## __WEEK 9__ 
+
+</div>
 
 ### &#10238; TASK 1: Analysing and Extracting Meaning from Audio
 
@@ -245,8 +261,11 @@ I reused the songs from the week 8 assignments for this week's task. The adjustm
 ### &#10238; Task 2.2: Comparing the histograms
 I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres and don't contain the same instruments. The histograms above show that this is in fact the case. Additionally, track 1 and track 2 histograms appear to be slightly more similar to one another than each of them is to track 3.  This makes sense given that the former are ...genre and ...... tunes with some shared instruments, whilst the later is a .... .However, there are variances across the three sets of histograms, with feature 0 being the most noticeable.
 
-## __WEEK 10__
+<div align="left">
+  
+## __WEEK 10__ 
 
+</div>\
 
 ### &#10238; Audio Similarity and Transcription
 
