@@ -157,6 +157,11 @@ The MEI file was updated to contain some of the above listed metadata and can be
 
 ## __WEEK 7__
 
+### &#10238;TASK 1: Updating last week's metadata
+
+
+### &#10238;TASK 2: Rendering the revised metadata
+
 ## __WEEK 8__
 
 ### &#10238;TASK 1: Identifying three music tracks and listing most important metadata about them
@@ -189,7 +194,7 @@ The main benefit of a time-frequency analysis over a waveform analysis is that i
 
 ### &#10238; TASK 1: Analysing and Extracting Meaning from Audio
 
-For this week's task I used the same tracks from week 8 tasks. Below are the screenshots of the transformations (Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram) we had to do in Sonic Visualiser.
+I reused the songs from the week 8 assignments for this week's task. The adjustments we had to do in Sonic Visualiser (Spectrogram, Mel Frequency Cepstral Coefficient, and Chromagram) are shown in the screenshots below.
 
 *** SIX CHANSONS FOR PIANO : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram ***
 ![six chansons for piano spectogram](https://user-images.githubusercontent.com/113994055/204535749-faacec88-47f9-4a5b-901a-25dcc5f98295.png)
@@ -211,14 +216,16 @@ For this week's task I used the same tracks from week 8 tasks. Below are the scr
 
 ###### &#8688; *Task 2.1: Computing and visualising histograms*
 
-
-
 ###### &#8688; *Histograms computed from spectograms*
+
+###### &#8688; *Histograms computed from MFCCs*
+
+###### &#8688; *Histograms computed from chromagrams*
+
 
 
 ### &#10238; Task 2.2: Comparing the histograms
-
-
+I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres and don't contain the same instruments. The histograms above show that this is in fact the case. Additionally, track 1 and track 2 histograms appear to be slightly more similar to one another than each of them is to track 3.  This makes sense given that the former are ...genre and ...... tunes with some shared instruments, whilst the later is a .... .However, there are variances across the three sets of histograms, with feature 0 being the most noticeable.
 
 ## __WEEK 10__
 
@@ -243,9 +250,8 @@ For this week's task I used the same tracks from week 8 tasks. Below are the scr
  
  display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)
  
-###### &#8688; *SCORE PDF*
-![XAƧ musescore-1](https://user-images.githubusercontent.com/113994055/203801646-24fec336-3910-4ebe-aba2-26e595512d72.png)
-![XAƧ musescore-2](https://user-images.githubusercontent.com/113994055/203801650-29d4a36e-bcc4-402e-9772-974ff5127c5b.png)
+###### &#8688; *SCORE*
+<img width="1257" alt="Screenshot 2022-10-08 at 2 42 57 AM" src="https://user-images.githubusercontent.com/113994055/205460357-195719fe-e3af-47f6-846f-38faedff0489.png">
 
 ###### &#8688; *PIANO ROLL*
 ![xassonicvisualizerpiano-1](https://user-images.githubusercontent.com/113994055/203801653-c0c334bb-b9cb-4c43-8508-66a1349f7b87.png)
