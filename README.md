@@ -44,7 +44,11 @@ This distinguishes Iannis Xenakis. Although his musical work is difficult to dis
 
 ![228-IX-persepolis-photo-Mali -1971-coll-Famille-IX-DR -1024x950](https://user-images.githubusercontent.com/113994055/194643259-4e08845e-591b-42f9-bd97-4fc81dd54c17.jpg) 
 
-<div align="left">  ## __WEEK 2__ </div>
+<div align="left">
+  
+## __WEEK 2__ 
+
+</div>
 
 For week 2, I opted to transcribe the first few bars of Xenakis' "XAƧ" (SAX spelt backwards), which was originally created for the Rascher Saxophone Quartet. Unfortunately, the original score was ineligible for Musescore's PDF converter, thus here is my attempt at generating a clear version of it. 
 
@@ -54,8 +58,12 @@ You can also download the PDF version [here](https://drive.google.com/file/d/1Tl
 
 <img width="1257" alt="Screenshot 2022-10-08 at 2 42 57 AM" src="https://user-images.githubusercontent.com/113994055/194681443-252092a7-8c54-44d6-ae93-84e3b9869bbb.png">
 
-## __WEEK 3__
+<div align="left">
+  
+## __WEEK 3__ 
 
+</div>
+  
 ### &#10238;TASK 1: Generating MusicXML and MEI files
 
 The first part of this week's task was to export our MuseScore files from last week to a MusicXML file, and from it to an MEI file. Both can be accessed through the links below. 
@@ -70,7 +78,11 @@ In order to present my rendered file as a component of this website for the seco
 
 Please refresh the page if the Verovio app is having trouble loading.
 
-## __WEEK 4__
+<div align="left">
+  
+## __WEEK 4__ 
+
+</div>
 
 For this week's lab, we had to convert our MuseScore file to MIDI, run it using jSymbolic.jar, and then import our CSV file into Excel after making the necessary adjustments. 
 
