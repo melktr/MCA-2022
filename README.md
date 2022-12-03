@@ -231,9 +231,10 @@ I have chosen to compare the histograms generated from the mel frequency cepstra
 
 
 ### &#10238; Audio Similarity and Transcription
+
 ### &#10238; TASK 1: Generating a Similarity Matrix
- answer questions
- add pics!!
+
+I utilised the same songs from the previous two weeks for this portion of the assignment. The ... genre is represented by tracks 0 through 3, ..... is represented by tracks 4 through 6, and tracks 7-9 are my tunes. The ...music ... is on track 7, ...track .... is on track 8, and...is on track 9. Tracks 0–3 and Track 9 are more similar to one another than any other tracks, which is reflected in the matrix. Despite the fact tha... songs and ... songs aren't all that different from one another, tracks 4 through 8 are also comparable to one another. However, given that  .... and .... are often more upbeat than other genres, this can be explained.
  
 ###### &#8688; *Chroma features*
 
@@ -247,11 +248,15 @@ I have chosen to compare the histograms generated from the mel frequency cepstra
  ![heat map](https://user-images.githubusercontent.com/113994055/204542700-b2331765-e2f4-4a34-a4eb-734ecb71a4aa.png)
 
 ### &#10238; TASK 2: Transcription
- 
- display both images and compare the transcription, reflecting on its accuracy and identifying any information that has been lost (max 200 words)
+
+I've chosen to transcribe the "XAS" file I created in week 2 for this work. The MuseScore file was first exported as a wav file, which was then imported into Sonic Visualiser and converted into a piano roll, which was then exported as a MIDI file. MuseScore was used to open the MIDI file and export it as a picture. The transcribed file from this week and the original notated file I created may be compared below.
  
 ###### &#8688; *SCORE*
 <img width="1257" alt="Screenshot 2022-10-08 at 2 42 57 AM" src="https://user-images.githubusercontent.com/113994055/205460357-195719fe-e3af-47f6-846f-38faedff0489.png">
 
 ###### &#8688; *PIANO ROLL*
 ![xassonicvisualizerpiano-1](https://user-images.githubusercontent.com/113994055/203801653-c0c334bb-b9cb-4c43-8508-66a1349f7b87.png)
+
+###### &#8688; *Reflection on accuracy*
+
+The differences between the files are obvious. Despite having four staves in the original file for a saxophone quartet, the tune is entirely created in two staves in the automatically produced version of musescore. Second, the original document lacked a time signature marking it in free time, while the transcription contained a 3/4 time signature. Third, the transcription's tempo is different from that of the source material. The list could go on indefinitely since each individual bar in the two files has a different look. Understandably, the audio quality of the two files differs greatly. Bars .... to around ... in the transcribed file correlate to the section of the file that, in my judgment, sounds the most like the original one.
