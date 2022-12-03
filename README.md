@@ -110,34 +110,50 @@ These are the metadata components I would use to describe individual MEI files i
 ***Metadata about the file itself:***
 
 *title (plus an optional subtitle if there is one): name of the transcribed piece
+
 *composer: name of the individual(s)/band who created the musical work
+
 *lyricist: name of the individual(s)/band who wrote the lyrics
+
 *arranger: name of the person/band responsible for the particular arrangement of the piece of music
+
 *encoder: name of the individual(s) that encoded the file
+
 *source: source from which the file was transcribed
+
 *size: physical size of the file itself
+
 *publisher: name of the individual/organisation responsible for the publication of the piece of work
+
 *publisher’s location: postal address or at least a city of the publisher
+
 *date: date of publication
+
 *usage restrictions: legal statute of the work regarding its distribution, publication, etc.
+
 
 ***Metadata about the encoding process:***
 
-
 *editorial changes: description of any editorial practices that happened during the transcription of the file
+
 *project description: describes the purpose for which the file was created
+
 
 ***Metadata about the original piece (if the source of transcription is different from the original piece):***
 
 *title: name of the original piece
+
 *arranger: name of the arranger of the original piece
+
 *composer: name of the individual(s) reponsible for the creation of the original musical work
+
 *lyricist: name of the individual(s) that wrote the lyrics for the original work
+
 *year: year of the orignal work's creation
 
 ### &#10238;TASK 2: Modifying the MEI file
 
-The MEI file was updated to contain the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei) .
+The MEI file was updated to contain some of the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei) .
 
 ## __WEEK 7__
 
