@@ -5,9 +5,11 @@
 [__WEEK 1__](https://melktr.github.io/MCA-2022/#week-1) | [__WEEK 2__](https://melktr.github.io/MCA-2022/#week-2) | [__WEEK 3__](https://melktr.github.io/MCA-2022/#week-3) | [__WEEK 4__](https://melktr.github.io/MCA-2022/#week-4) | [__WEEK 5__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-5) |READING WEEK| [__WEEK 7__](https://melktr.github.io/MCA-2022/#week-7) | [__WEEK 8__](https://melktr.github.io/MCA-2022/#week-8) | [__WEEK 9__](https://melktr.github.io/MCA-2022/#week-9) | [__WEEK 10__ ](https://melktr.github.io/MCA-2022/#week-10)
 
 <div align="left">
+  
 ##__WEEK 1__ 
-</div>
 
+</div>
+  
 ### &#10238;THEME
 
 My dataset is based on ***Iannis Xenakis (Greek: Γιάννης "Ιωάννης" Κλέαρχου Ξενάκης)*** , a Romanian-born Greek-French avant-garde composer, music theorist, architect, performance director, and engineer. He revolutionized the application of mathematical models in music, including  stochastic processes, applications of set theory and game theory, and had substantial impact on the growth of electronic and computer music. He fused music and architecture by writing music for specific locations and designing surroundings that could be linked to certain music compositions and performances.
