@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 # &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
                                                                                                                                          
@@ -263,4 +263,4 @@ I've chosen to transcribe the "XAS" file I created in week 2 for this work. The 
 
 The differences between the files are obvious. Despite having four staves in the original file for a saxophone quartet, the tune is entirely created in two staves in the automatically produced version of musescore. Second, the original document lacked a time signature marking it in free time, while the transcription contained a 3/4 time signature. Third, the transcription's tempo is different from that of the source material. The list could go on indefinitely since each individual bar in the two files has a different look. Understandably, the audio quality of the two files differs greatly. Bars .... to around ... in the transcribed file correlate to the section of the file that, in my judgment, sounds the most like the original one.
 
-</p>
+</div>
