@@ -7,4 +7,4 @@ CHANGE LINKS!
 
 Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing) )
 
-Download the MEI file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1ZjJ2uJirNXnNq6DGrKz4R4brM5fR8Jc8/view?usp=sharing))
+Download the MEI file [here](https://github.com/melktr/MCA-2022/blob/master/data/XAS.mei)
