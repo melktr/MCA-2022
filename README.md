@@ -1,3 +1,5 @@
+<p align="center">
+
 # &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
                                                                                                                                          
 [__WEEK 1__](https://melktr.github.io/MCA-2022/#week-1) | [__WEEK 2__](https://melktr.github.io/MCA-2022/#week-2) | [__WEEK 3__](https://melktr.github.io/MCA-2022/#week-3) | [__WEEK 4__](https://melktr.github.io/MCA-2022/#week-4) | [__WEEK 5__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-5) |READING WEEK| [__WEEK 7__](https://melktr.github.io/MCA-2022/#week-7) | [__WEEK 8__](https://melktr.github.io/MCA-2022/#week-8) | [__WEEK 9__](https://melktr.github.io/MCA-2022/#week-9) | [__WEEK 10__ ](https://melktr.github.io/MCA-2022/#week-10)
@@ -260,3 +262,5 @@ I've chosen to transcribe the "XAS" file I created in week 2 for this work. The 
 ###### &#8688; *Reflection on accuracy*
 
 The differences between the files are obvious. Despite having four staves in the original file for a saxophone quartet, the tune is entirely created in two staves in the automatically produced version of musescore. Second, the original document lacked a time signature marking it in free time, while the transcription contained a 3/4 time signature. Third, the transcription's tempo is different from that of the source material. The list could go on indefinitely since each individual bar in the two files has a different look. Understandably, the audio quality of the two files differs greatly. Bars .... to around ... in the transcribed file correlate to the section of the file that, in my judgment, sounds the most like the original one.
+
+</p>
