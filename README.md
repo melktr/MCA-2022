@@ -4,7 +4,7 @@
                                                                                                                                          
 [__WEEK 1__](https://melktr.github.io/MCA-2022/#week-1) | [__WEEK 2__](https://melktr.github.io/MCA-2022/#week-2) | [__WEEK 3__](https://melktr.github.io/MCA-2022/#week-3) | [__WEEK 4__](https://melktr.github.io/MCA-2022/#week-4) | [__WEEK 5__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-5) |READING WEEK| [__WEEK 7__](https://melktr.github.io/MCA-2022/#week-7) | [__WEEK 8__](https://melktr.github.io/MCA-2022/#week-8) | [__WEEK 9__](https://melktr.github.io/MCA-2022/#week-9) | [__WEEK 10__ ](https://melktr.github.io/MCA-2022/#week-10)
 
-## __WEEK 1__
+<div align="left"> ## __WEEK 1__ </div>
 
 ### &#10238;THEME
 
@@ -40,7 +40,7 @@ This distinguishes Iannis Xenakis. Although his musical work is difficult to dis
 
 ![228-IX-persepolis-photo-Mali -1971-coll-Famille-IX-DR -1024x950](https://user-images.githubusercontent.com/113994055/194643259-4e08845e-591b-42f9-bd97-4fc81dd54c17.jpg) 
 
-## __WEEK 2__
+<div align="left">  ## __WEEK 2__ </div>
 
 For week 2, I opted to transcribe the first few bars of Xenakis' "XAƧ" (SAX spelt backwards), which was originally created for the Rascher Saxophone Quartet. Unfortunately, the original score was ineligible for Musescore's PDF converter, thus here is my attempt at generating a clear version of it. 
 
