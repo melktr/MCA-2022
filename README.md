@@ -174,15 +174,15 @@ The MEI file was updated to contain some of the above listed metadata and can be
 
 ### &#10238;TASK 2.1: Computing and exporting a spectrogram and waveform for each track from task 1
 
-*** SIX CHANSONS FOR PIANO : SPECTOGRAM AND WAVEFORM ***
+***SIX CHANSONS FOR PIANO : SPECTOGRAM AND WAVEFORM***
 ![six chansons for piano spectogram](https://user-images.githubusercontent.com/113994055/204533493-80c59e04-1f04-42f0-b90b-0e615ccca188.png)
 ![six chansons for piano soundwaves](https://user-images.githubusercontent.com/113994055/204533668-64b4f547-db30-4a11-ac76-e8f7a8782ff2.png)
 
-*** PITHOPRAKTA : SPECTOGRAM AND WAVEFORM ***
+***PITHOPRAKTA : SPECTOGRAM AND WAVEFORM***
 ![spectogram 2](https://user-images.githubusercontent.com/113994055/204533888-40e9d640-03f3-4968-bd57-5fd233fe9b31.png)
 ![pithoprakta soundwaves#](https://user-images.githubusercontent.com/113994055/204533907-524d0fc2-ceaa-43f5-be07-bba78f998149.png)
 
-*** XAS : SPECTOGRAM AND WAVEFORM ***
+***XAS : SPECTOGRAM AND WAVEFORM***
 ![xas spectogram](https://user-images.githubusercontent.com/113994055/204533939-54bea61f-8ad6-43b3-8000-05a39bb035ea.png)
 ![xas soundwaves](https://user-images.githubusercontent.com/113994055/204533953-e8893a4b-5b42-4e4f-bb12-137c3702e1f8.png)
 
