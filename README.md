@@ -1,14 +1,8 @@
-<div align="center">
-
 # &#12304; MELANIE KTORA - 2485564 - MCA PROJECT &#12305;
                                                                                                                                          
 [__WEEK 1__](https://melktr.github.io/MCA-2022/#week-1) | [__WEEK 2__](https://melktr.github.io/MCA-2022/#week-2) | [__WEEK 3__](https://melktr.github.io/MCA-2022/#week-3) | [__WEEK 4__](https://melktr.github.io/MCA-2022/#week-4) | [__WEEK 5__](https://github.com/melktr/MCA-2022/blob/master/README.md#week-5) |READING WEEK| [__WEEK 7__](https://melktr.github.io/MCA-2022/#week-7) | [__WEEK 8__](https://melktr.github.io/MCA-2022/#week-8) | [__WEEK 9__](https://melktr.github.io/MCA-2022/#week-9) | [__WEEK 10__ ](https://melktr.github.io/MCA-2022/#week-10)
 
-<div align="left">
-  
 ## __WEEK 1__ 
-
-</div>
   
 ### &#10238;THEME
 
@@ -43,12 +37,8 @@ In a world when music is publicly available, the most challenging difficulty tha
 This distinguishes Iannis Xenakis. Although his musical work is difficult to distribute as it is mostly experience-based and you can't transfer the emotional aspect, the humanised limited edition performance, and the feeling of the live soundwaves in your ears,  as previously noted, his work is available in a variety of formats. His music is available via streaming services, architectures, structures, exhibits, photography, notation (graphic and notated scores), audio arts, and different organisations continuing on his legacy, including The Philharmonic Orchestra of Paris, Trio Xenakis, the Hellenic Cultural Center, and Ina GRM.
 
 ![228-IX-persepolis-photo-Mali -1971-coll-Famille-IX-DR -1024x950](https://user-images.githubusercontent.com/113994055/194643259-4e08845e-591b-42f9-bd97-4fc81dd54c17.jpg) 
-
-<div align="left">
   
 ## __WEEK 2__ 
-
-</div>
 
 For week 2, I opted to transcribe the first few bars of Xenakis' "XAƧ" (SAX spelt backwards), which was originally created for the Rascher Saxophone Quartet. Unfortunately, the original score was ineligible for Musescore's PDF converter, thus here is my attempt at generating a clear version of it. 
 
@@ -57,12 +47,8 @@ The images below are from a pdf version of my MuseScore file which you can downl
 You can also download the PDF version [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing) 
 
 <img width="1257" alt="Screenshot 2022-10-08 at 2 42 57 AM" src="https://user-images.githubusercontent.com/113994055/194681443-252092a7-8c54-44d6-ae93-84e3b9869bbb.png">
-
-<div align="left">
   
 ## __WEEK 3__ 
-
-</div>
   
 ### &#10238;TASK 1: Generating MusicXML and MEI files
 
@@ -77,12 +63,8 @@ View the MEI file [here](https://github.com/melktr/MCA-2022/blob/master/data/XAS
 In order to present my rendered file as a component of this website for the second portion of this week's task, I copied the code from the "verovio.html" file and made the necessary edits. 
 
 Please refresh the page if the Verovio app is having trouble loading.
-
-<div align="left">
   
 ## __WEEK 4__ 
-
-</div>
 
 For this week's lab, we had to convert our MuseScore file to MIDI, run it using jSymbolic.jar, and then import our CSV file into Excel after making the necessary adjustments. 
 
@@ -119,12 +101,8 @@ Pitch and note length are shown on the extracted scatter plot of pitches. Once m
 The number of times a specific note has been played in a song is indicated by the retrieved pitch histogram. This histogram indicates that F#4 is the most frequent pitch in my composition, which is compatible with the information obtained from jSymbolic because F#4 is comparable to MIDI pitch value 66 (most common pitch).   
 
 ![graph](https://user-images.githubusercontent.com/113994055/203786144-ffaf7832-1817-48e9-a049-17a3c8804962.PNG)
-
-<div align="left">
   
 ## __WEEK 5__ 
-
-</div>
   
 ### &#10238;TASK 1: 
 These are the metadata components I would use to describe individual MEI files in my GitHub repository since I think they are the most significant:
@@ -176,24 +154,16 @@ These are the metadata components I would use to describe individual MEI files i
 ### &#10238;TASK 2: Modifying the MEI file
 
 The MEI file was updated to contain some of the above listed metadata and can be accessed [here](https://github.com/melktr/MCA-2022/blob/master/Labs/Week%205/XASupdated.mei) .
-
-<div align="left">
   
 ## __WEEK 7__ 
-
-</div>
 
 ### &#10238;TASK 1: Updating last week's metadata
 
 
 ### &#10238;TASK 2: Rendering the revised metadata
 
-<div align="left">
-  
 ## __WEEK 8__ 
 
-</div>
-  
 ### &#10238;TASK 1: Identifying three music tracks and listing most important metadata about them
 
 ![AUDIO FORMAT](https://user-images.githubusercontent.com/113994055/204532980-675df36b-7119-4191-890c-39dacbf2a2eb.PNG)
@@ -220,12 +190,8 @@ The MEI file was updated to contain some of the above listed metadata and can be
 
 The main benefit of a time-frequency analysis over a waveform analysis is that it makes it simpler to glean important details about the particular musical composition. Since each note in a song has a certain frequency, we can roughly identify the notes being played in a song based on a spectrogram, which is a visual depiction of the fluctuation of frequencies over time. On the other hand, a waveform analysis contains a lot of information but does not present it in a comprehensible manner. Although it lacks numerical data, it provides us with the amplitude, or the energy level, at a certain time point, which equates to loudness, and the form of the wave provides us with an indicator of the variations in frequency.
 
-<div align="left">
-  
 ## __WEEK 9__ 
-
-</div>
-
+  
 ### &#10238; TASK 1: Analysing and Extracting Meaning from Audio
 
 I reused the songs from the week 8 assignments for this week's task. The adjustments we had to do in Sonic Visualiser (Spectrogram, Mel Frequency Cepstral Coefficient, and Chromagram) are shown in the screenshots below.
@@ -260,13 +226,9 @@ I reused the songs from the week 8 assignments for this week's task. The adjustm
 
 ### &#10238; Task 2.2: Comparing the histograms
 I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres and don't contain the same instruments. The histograms above show that this is in fact the case. Additionally, track 1 and track 2 histograms appear to be slightly more similar to one another than each of them is to track 3.  This makes sense given that the former are ...genre and ...... tunes with some shared instruments, whilst the later is a .... .However, there are variances across the three sets of histograms, with feature 0 being the most noticeable.
-
-<div align="left">
   
 ## __WEEK 10__ 
-
-</div>\
-
+  
 ### &#10238; Audio Similarity and Transcription
 
 ### &#10238; TASK 1: Generating a Similarity Matrix
@@ -297,5 +259,3 @@ I've chosen to transcribe the "XAS" file I created in week 2 for this work. The 
 ###### &#8688; *Reflection on accuracy*
 
 The differences between the files are obvious. Despite having four staves in the original file for a saxophone quartet, the tune is entirely created in two staves in the automatically produced version of musescore. Second, the original document lacked a time signature marking it in free time, while the transcription contained a 3/4 time signature. Third, the transcription's tempo is different from that of the source material. The list could go on indefinitely since each individual bar in the two files has a different look. Understandably, the audio quality of the two files differs greatly. Bars .... to around ... in the transcribed file correlate to the section of the file that, in my judgment, sounds the most like the original one.
-
-</div>
