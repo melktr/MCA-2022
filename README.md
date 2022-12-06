@@ -225,7 +225,7 @@ I reused the songs from the week 8 assignments for this week's task. The adjustm
 
 
 ### &#10238; Task 2.2: Comparing the histograms
-I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres and don't contain the same instruments. The histograms above show that this is in fact the case. Additionally, track 1 and track 2 histograms appear to be slightly more similar to one another than each of them is to track 3.  This makes sense given that the former are ...genre and ...... tunes with some shared instruments, whilst the later is a .... .However, there are variances across the three sets of histograms, with feature 0 being the most noticeable.
+I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres and don't contain the same instruments. The histograms above show that this is in fact the case. Additionally, track 2 and track 3 histograms appear to be slightly more similar to one another than each of them is to track 1.  This makes sense given that the former are more diverse, sonified and contemporary genre, with some shared timbres, whilst the latter tune is more classical. However, there are variances across the three sets of histograms, with feature 0 being the most noticeable.
   
 ## __WEEK 10__ 
   
