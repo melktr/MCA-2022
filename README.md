@@ -80,7 +80,7 @@ I have gathered certain fundamental characteristics, such as the pitches histogr
 
 ![numbers related to data](https://user-images.githubusercontent.com/113994055/195591803-51425bfa-cd3c-4469-81fa-b1e5aeab1785.PNG)
 
-Here is a link to the [csv file](https://github.com/melktr/MCA-2022/blob/master/Labs/WEEK%204/featurevalues.csv)
+Here is a link to the [CSV file](https://github.com/melktr/MCA-2022/blob/master/Labs/WEEK%204/featurevalues.csv) .
 
 ### &#10238;TASK 2: Generating a piano roll and a pitch histogram
 
