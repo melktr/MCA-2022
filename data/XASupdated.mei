@@ -13,8 +13,8 @@
          </titleStmt>
          <pubStmt>
 			<date isodate="2022-10-08" type="encoding-date">2022-10-08</date>
-			<date type="composition-date">1987</date>
-	        <date isodate="2022-10-08" type="arrangement-date">2022-10-08</date>
+			<!--<date type="composition-date">1987</date>
+	        <date isodate="2022-10-08" type="arrangement-date">2022-10-08</date>-->
          </pubStmt>			
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-9uywfz">
