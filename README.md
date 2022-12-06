@@ -98,7 +98,7 @@ Pitch and note length are shown on the extracted scatter plot of pitches. Once m
 
 ***Histogram of pitch***
 
-The number of times a specific note has been played in a song is indicated by the retrieved pitch histogram. This histogram indicates that F#4 is the most frequent pitch in my composition, which is compatible with the information obtained from jSymbolic because F#4 is comparable to MIDI pitch value 66 (most common pitch).   
+The number of times a specific note has been played in a song is indicated by the retrieved pitch histogram.   
 
 ![graph](https://user-images.githubusercontent.com/113994055/203786144-ffaf7832-1817-48e9-a049-17a3c8804962.PNG)
   
