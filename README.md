@@ -54,7 +54,7 @@ You can also download the PDF version [here](https://drive.google.com/file/d/1Tl
 
 The first part of this week's task was to export our MuseScore files from last week to a MusicXML file, and from it to an MEI file. Both can be accessed through the links below. 
 
-Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing) )   CHANGE LINK!!
+View the MusicXML file [here](https://github.com/melktr/MCA-2022/blob/master/Labs/WEEK%203/XA%C6%A7%20musescore.musicxml) 
 
 View the MEI file [here](https://github.com/melktr/MCA-2022/blob/master/data/XAS.mei)
 
@@ -62,7 +62,7 @@ View the MEI file [here](https://github.com/melktr/MCA-2022/blob/master/data/XAS
 
 In order to present my rendered file as a component of this website for the second portion of this week's task, I copied the code from the "verovio.html" file and made the necessary edits. 
 
-VIEW THE MEI ON VEROVIO  [here](https://melktr.github.io/MCA-2022/verovio.html)
+View the MEI on VEROVIO  [here](https://melktr.github.io/MCA-2022/verovio.html)
   
 ## __WEEK 4__ 
 
