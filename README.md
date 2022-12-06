@@ -56,6 +56,8 @@ The first part of this week's task was to export our MuseScore files from last w
 
 Download the MusicXML file [here](https://drive.google.com/file/d/1Tl6QxiRHQtomofGqelauh-jKVfzgbjgD/view?usp=sharing](https://drive.google.com/file/d/1xFOhRuUjEBtHv6g4OB4z01GJqvTccfVm/view?usp=sharing) )   CHANGE LINK!!
 
+VIEW THE MEI ON VEROVIO  [here](https://melktr.github.io/MCA-2022/verovio.html)
+
 View the MEI file [here](https://github.com/melktr/MCA-2022/blob/master/data/XAS.mei)
 
 ### &#10238;TASK 2: Rendering the MEI file using Verovio
