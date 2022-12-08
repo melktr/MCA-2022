@@ -200,17 +200,17 @@ The main benefit of a time-frequency analysis over a waveform analysis is that i
 
 I reused the songs from the week 8 assignments for this week's task. The adjustments we had to do in Sonic Visualiser (Spectrogram, Mel Frequency Cepstral Coefficient, and Chromagram) are shown in the screenshots below.
 
-***SIX CHANSONS FOR PIANO : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram ***
+***SIX CHANSONS FOR PIANO : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram***
 ![six chansons for piano spectogram](https://user-images.githubusercontent.com/113994055/204535749-faacec88-47f9-4a5b-901a-25dcc5f98295.png)
 ![Mel Frequency Cepstral Coefficients](https://user-images.githubusercontent.com/113994055/204535815-a03a21b7-a457-49a4-8d5c-807ce92a0bcf.png)
 ![Chromagram](https://user-images.githubusercontent.com/113994055/204535827-bb810091-18e0-4f64-a8fb-9c2eef438ca5.png)
 
-***PITHOPRAKTA : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram ***
+***PITHOPRAKTA : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram***
 ![pithopraktaspectogram](https://user-images.githubusercontent.com/113994055/204535926-d9e1be0f-a933-4d3b-bbac-ece511b5e8e9.png)
 ![Mel Frequency Cepstral Coefficients](https://user-images.githubusercontent.com/113994055/204535940-9da21a49-ebe0-495b-815a-5099be52faae.png)
 ![Chromagram](https://user-images.githubusercontent.com/113994055/204535949-d1f318f6-33e0-4b7a-ae7a-1995e8535436.png)
 
-***XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram ***
+***XAS : Spectrogram, Mel Frequency Cepstral Coefficient and Chromagram***
 ![xas spectogram](https://user-images.githubusercontent.com/113994055/204536079-7baafd26-232a-4f4e-8b68-6ab2a5185e10.png)
 ![Mel Frequency Cepstral Coefficients](https://user-images.githubusercontent.com/113994055/204536091-85f1a34d-eadd-4ab1-9a5a-347ae0232a89.png)
 ![Chromagram](https://user-images.githubusercontent.com/113994055/204536108-8b89b9ac-6ce3-4fe4-854f-8f57f0885144.png)
