@@ -222,10 +222,8 @@ I reused the songs from the week 8 assignments for this week's task. The adjustm
 
 ###### &#8688; *Histograms computed from chromagrams*
 
-
-
 ### &#10238; Task 2.2: Comparing the histograms
-I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres and don't contain the same instruments. The histograms above show that this is in fact the case. Additionally, track 2 and track 3 histograms appear to be slightly more similar to one another than each of them is to track 1.  This makes sense given that the former are more diverse, sonified and contemporary genre, with some shared timbres, whilst the latter tune is more classical. However, there are variances across the three sets of histograms, with feature 0 being the most noticeable.
+I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres of compositions and don't contain the same instruments. The histograms above would show that this is in fact the case.
   
 ## __WEEK 10__ 
   
@@ -233,8 +231,8 @@ I have chosen to compare the histograms generated from the mel frequency cepstra
 
 ### &#10238; TASK 1: Generating a Similarity Matrix
 
-I utilised the same songs from the previous two weeks for this portion of the assignment. The ... genre is represented by tracks 0 through 3, ..... is represented by tracks 4 through 6, and tracks 7-9 are my tunes. The ...music ... is on track 7, ...track .... is on track 8, and...is on track 9. Tracks 0–3 and Track 9 are more similar to one another than any other tracks, which is reflected in the matrix. Despite the fact tha... songs and ... songs aren't all that different from one another, tracks 4 through 8 are also comparable to one another. However, given that  .... and .... are often more upbeat than other genres, this can be explained.
- 
+I utilised the same songs from the previous two weeks for this portion of the assignment. The contemporary compositions are represented by tracks 0 through 3, as well as tracks 7 through 9, and tracks 4-6 represent classical composition.
+
 ###### &#8688; *Chroma features*
 
 ![mean chroma features](https://user-images.githubusercontent.com/113994055/204541990-9ff5348b-fe09-4ceb-ae93-776eea531d0a.png)
@@ -258,4 +256,4 @@ I've chosen to transcribe the "XAS" file I created in week 2 for this work. The 
 
 ###### &#8688; *Reflection on accuracy*
 
-The differences between the files are obvious. Despite having four staves in the original file for a saxophone quartet, the tune is entirely created in two staves in the automatically produced version of musescore. Second, the original document lacked a time signature marking it in free time, while the transcription contained a 3/4 time signature. Third, the transcription's tempo is different from that of the source material. The list could go on indefinitely since each individual bar in the two files has a different look. Understandably, the audio quality of the two files differs greatly. Bars .... to around ... in the transcribed file correlate to the section of the file that, in my judgment, sounds the most like the original one.
+The differences between the files are obvious. Despite having four staves in the original file for a saxophone quartet, the tune is entirely created in two staves in the automatically produced version of musescore. Second, the original document lacked a time signature marking it in free time, while the transcription contained a 3/4 time signature. Third, the transcription's tempo is different from that of the source material. The list could go on indefinitely since each individual bar in the two files has a different look. Understandably, the audio quality of the two files differs greatly.
