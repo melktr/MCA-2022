@@ -158,9 +158,13 @@ The MEI file was updated to contain some of the above listed metadata and can be
 ## __WEEK 7__ 
 
 ### &#10238;TASK 1: Updating last week's metadata
+I went back to the metadata I developed in week 5 and used verovio to integrate it in my HTML pages. 
 
+The new page's link may be found [here](https://melktr.github.io/MCA-2022/myMeta.html) .
 
 ### &#10238;TASK 2: Rendering the revised metadata
+
+I regret not spending more time this week researching design and CSS to make this layout more engaging and well-organized. It was interesting to see how you can modify the settings in browsers to see what you would like to change, however this is definitely an area that I find more difficult to deal with.
 
 ## __WEEK 8__ 
 
@@ -216,14 +220,14 @@ I reused the songs from the week 8 assignments for this week's task. The adjustm
 
 ###### &#8688; *Task 2.1: Computing and visualising histograms*
 
+Unfortunately, due to technical issues, this portion of the weekly work remained unattempted.
+
 ###### &#8688; *Histograms computed from spectograms*
-
 ###### &#8688; *Histograms computed from MFCCs*
-
 ###### &#8688; *Histograms computed from chromagrams*
 
 ### &#10238; Task 2.2: Comparing the histograms
-I have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres of compositions and don't contain the same instruments. The histograms above would show that this is in fact the case.
+I would have chosen to compare the histograms generated from the mel frequency cepstral coefficients for each track for this portion of the job. MFCC is typically used to analyse the tone, colour, or quality of timbre. The MFCCs for the three tracks I'm comparing ought to differ as they are all from different genres of compositions and don't contain the same instruments. The histograms above would show that this is in fact the case.
   
 ## __WEEK 10__ 
   
